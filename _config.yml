@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.2658303
 color:
   saturation: 1
   brandStrength: 0.6240224
@@ -21,6 +22,5 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   rhythmicContrast: 1
-typography_spectrum: 0.2658303
 layout_spectrum: 1
 name: Superseed
