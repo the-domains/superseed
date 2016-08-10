@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2658303
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 0.6240224
+  brandStrength: 1
   lightness: 1
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#9C9A8B'
+    - '#171D1B'
+    - '#44644D'
+    - '#A47A16'
+    - '#EED240'
   rhythmicContrast: 1
+typography_spectrum: 0.2658303
 layout_spectrum: 1
 name: Superseed
