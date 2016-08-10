@@ -1,0 +1,14 @@
+layout_spectrum: 0.3112306
+typography_spectrum: 0.2658303
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.6240224
+  rhythmicContrast: 1
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Superseed
