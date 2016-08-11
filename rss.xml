@@ -4,8 +4,15 @@
         <description><![CDATA[Superseed  |  Insights on Design]]></description>
         <link>https://thegrid.ai/superseed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 02:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 02:55:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/superseed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a2328ef-7ab9-4fdb-abde-fc71fd97f58a.jpg">]]></description>
+            <link>https://thegrid.ai/superseed/cartoon-influenced-3d-cubes/index.html</link>
+            <guid isPermaLink="false">60aaaaaf-2bbf-4371-8954-c074fc53e829</guid>
+            <pubDate>Thu, 11 Aug 2016 02:55:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How It Works: Design Thinking ]]></title>
             <description><![CDATA[<p>https://youtu.be/pXtN4y3O35M</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtube.com/watch?v=JZH70qhmEso</link>
             <guid isPermaLink="false">9f02a316-964d-49b3-9e57-21d5dc53ac2c</guid>
             <pubDate>Wed, 10 Aug 2016 23:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation]]></title>
-            <description><![CDATA[<article><h1>Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d093903620ecc07a011e87bfbda8d33b/noop.jpg?input=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F41-aaVMQaFL.jpg"></article>]]></description>
-            <link>https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089/ideobooks-20</link>
-            <guid isPermaLink="false">d37849be-0e4c-4895-8aa7-b64ed98cdcd8</guid>
-            <pubDate>Wed, 10 Aug 2016 23:03:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
