@@ -5,17 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/pXtN4y3O35M'
-datePublished: '2016-08-11T02:22:59.302Z'
-dateModified: '2016-08-11T02:22:31.155Z'
+datePublished: '2016-08-11T02:27:36.664Z'
+dateModified: '2016-08-11T02:27:08.682Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-11-how-it-works-design-thinking.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-11-how-it-works-design-thinking.md
 url: how-it-works-design-thinking/index.html
 _type: Article
 
 ---
-https://youtu.be/pXtN4y3O35M
+[https://youtu.be/pXtN4y3O35M][0]
+
+[0]: https://youtu.be/pXtN4y3O35M
