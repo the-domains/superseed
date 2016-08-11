@@ -1,4 +1,4 @@
-name: Superseed
+name: Superseed  |  Insights on Design
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 1
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9C9A8B'
-    - '#171D1B'
-    - '#44644D'
-    - '#A47A16'
-    - '#EED240'
+    - '#ffffff'
+    - '#ed1846'
+    - '#fba63c'
+    - '#761c7c'
+    - '#2ca244'
   brandStrength: 0.1523297
   lightness: 1
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
