@@ -1,3 +1,7 @@
+name: Superseed  |  Insights on Design
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Insights on Design
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.1523297
-  lightness: 1
   brandColors:
     - '#9C9A8B'
     - '#171D1B'
     - '#44644D'
     - '#A47A16'
     - '#EED240'
+  brandStrength: 0.1523297
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 1
-layout_spectrum: 1
-name: Superseed
+purpose: []
