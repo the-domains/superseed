@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Superseed]]></title>
-        <description><![CDATA[Superseed]]></description>
+        <title><![CDATA[Superseed  |  Insights on Design]]></title>
+        <description><![CDATA[Superseed  |  Insights on Design]]></description>
         <link>https://thegrid.ai/superseed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 23:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 02:23:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/superseed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How It Works: Design Thinking ]]></title>
+            <description><![CDATA[<p>https://youtu.be/pXtN4y3O35M</p>]]></description>
+            <link>https://thegrid.ai/superseed/how-it-works-design-thinking/index.html</link>
+            <guid isPermaLink="false">13a2c215-83f1-4a92-8286-e53462845237</guid>
+            <pubDate>Thu, 11 Aug 2016 02:22:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Xerox PARC: Collaboration at the Intersection of Art and Science]]></title>
             <description><![CDATA[<article><h1>Xerox PARC: Collaboration at the Intersection of Art and Science</h1><p>By Linda Naiman One of the most enjoyable aspects of being co-author of Orchestrating Collaboration at Work, was interviewing some of the leading researchers and pioneers in the world of art in business. My phone interview with John Seely Brown, former chief scientist at Xerox, was a breathless rapid-fire stream of consciousness exchange that at times seemed like an un-punctuated beat poem.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cfe99ab9f7ba02a56dc2b5176d9bd614/noop.jpg?input=http%3A%2F%2Fwww.creativityatwork.com%2Fwp-content%2Fuploads%2F51QfbiW5WHL.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089/ideobooks-20</link>
             <guid isPermaLink="false">d37849be-0e4c-4895-8aa7-b64ed98cdcd8</guid>
             <pubDate>Wed, 10 Aug 2016 23:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design Thinking... What is That?]]></title>
-            <description><![CDATA[<article><h1>Design Thinking... What is That?</h1><p>I have this image of Allen Samuels permanently emblazoned on my brain. This goes back to college. With his usual amazing energy and unrestrained passion, this deeply passionate design professor is explaining to us why the process of design that we are learning is so important.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3047b63b06154885cb6c6d99e6f4e3f/noop.jpg?input=http%3A%2F%2Fc.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2F620x350%2Fposter%2F2015%2F04%2F919258-poster-p-1-design-thinking-what-is-it.jpg"></article>]]></description>
-            <link>http://www.fastcompany.com/919258/design-thinking-what</link>
-            <guid isPermaLink="false">e2b049bb-6d4d-4457-9a3d-878f84c26ce0</guid>
-            <pubDate>Wed, 10 Aug 2016 02:50:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
