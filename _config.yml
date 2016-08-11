@@ -10,10 +10,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 1
 color:
   saturation: 1
-  brandStrength: 0.379331
+  brandStrength: 0.1523297
   lightness: 1
   brandColors:
     - '#9C9A8B'
@@ -22,5 +21,6 @@ color:
     - '#A47A16'
     - '#EED240'
   rhythmicContrast: 1
+typography_spectrum: 1
 layout_spectrum: 1
 name: Superseed
